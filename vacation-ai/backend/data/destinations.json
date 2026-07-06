@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bali",
+    "travel_with": ["honeymoon", "couple"],
+    "purpose": ["relaxing", "romantic"],
+    "budget": "medium"
+  },
+  {
+    "name": "Goa",
+    "travel_with": ["friends", "boys trip"],
+    "purpose": ["party", "relaxing"],
+    "budget": "low"
+  },
+  {
+    "name": "Japan",
+    "travel_with": ["solo", "couple"],
+    "purpose": ["history", "culture", "sightseeing"],
+    "budget": "high"
+  }
+]
